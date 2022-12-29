@@ -16,7 +16,6 @@ chrome_options.add_experimental_option("detach", True)
 #Search Function
 def Search_pls(entry, drop_box):
     wbrowser = webdriver.Chrome(chrome_options=chrome_options)
-    print(drop_box)
     if drop_box == "Google":
         wbrowser.get("https://google.com")
     elif drop_box == "Bing":
