@@ -5,6 +5,11 @@ Creates a GUI Search Bar that links to multiple search engines and inputs user's
 Uses Search Engines Google, Bing, and DuckDuckGO
 ## Requirements
 Uses libraries Selenium, tkinter, CTkinter
+```
+pip install Selenium
+pip install tkinter
+pip install customtkinter
+```
 
 Must have chrome webdriver installed
 ## GUI
