@@ -11,7 +11,7 @@ pip install tkinter
 pip install customtkinter
 ```
 
-Must have chrome webdriver installed
+Must have [chrome webdriver](https://chromedriver.storage.googleapis.com/index.html?path=109.0.5414.25/) installed
 ## GUI
 ![UltimateSearch](https://user-images.githubusercontent.com/121186555/209994760-3c66262b-e417-4e84-9869-73418ff79fd7.PNG)
 
